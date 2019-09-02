@@ -1,0 +1,17 @@
+Package                            Current   Wanted   Latest  Location
+@angular-devkit/build-angular      0.801.3  0.801.3  0.803.2  custom-form-app
+@angular/animations                  8.1.3    8.1.3    8.2.4  custom-form-app
+@angular/cli                         8.1.3    8.1.3    8.3.2  custom-form-app
+@angular/common                      8.1.3    8.1.3    8.2.4  custom-form-app
+@angular/compiler                    8.1.3    8.1.3    8.2.4  custom-form-app
+@angular/compiler-cli                8.1.3    8.1.3    8.2.4  custom-form-app
+@angular/core                        8.1.3    8.1.3    8.2.4  custom-form-app
+@angular/forms                       8.1.3    8.1.3    8.2.4  custom-form-app
+@angular/language-service            8.1.3    8.1.3    8.2.4  custom-form-app
+@angular/platform-browser            8.1.3    8.1.3    8.2.4  custom-form-app
+@angular/platform-browser-dynamic    8.1.3    8.1.3    8.2.4  custom-form-app
+@angular/router                      8.1.3    8.1.3    8.2.4  custom-form-app
+@types/node                         12.6.9   12.6.9   12.7.3  custom-form-app
+tslint                              5.18.0   5.18.0   5.19.0  custom-form-app
+typescript                           3.4.5    3.4.5    3.6.2  custom-form-app
+zone.js                              0.9.1    0.9.1   0.10.2  custom-form-app
